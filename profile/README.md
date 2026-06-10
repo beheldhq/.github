@@ -63,12 +63,12 @@ Beheld is early. We're building `cli` and `docs` in the open while the web app a
 
 - Open an issue on [`cli`](https://github.com/beheldhq/cli/issues) — bugs, ideas, requests
 - Send a PR to [`docs`](https://github.com/beheldhq/docs) — typos, clarifications, examples
-- Share feedback at [hello@beheld.dev](mailto:hello@beheld.dev)
+- Share feedback at [hi@beheld.dev](mailto:hi@beheld.dev)
 
 ## Connect
 
 - **Website** — [beheld.dev](https://beheld.dev)
-- **Email** — [hello@beheld.dev](mailto:hello@beheld.dev)
+- **Email** — [hi@beheld.dev](mailto:hi@beheld.dev)
 - **X** — [@beheldhq](https://x.com/beheldhq)
 - **LinkedIn** — [Beheld](https://www.linkedin.com/company/beheldhq)
 
